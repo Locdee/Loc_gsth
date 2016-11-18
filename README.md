@@ -1,2 +1,0 @@
-# Loc_gsth
-Goodthings
